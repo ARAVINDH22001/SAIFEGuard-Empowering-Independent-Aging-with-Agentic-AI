@@ -1,14 +1,14 @@
-SAIFEGuard 🛡️ – Empowering Independent Aging with Agentic AI
+# SAIFEGuard 🛡️ – Empowering Independent Aging with Agentic AI
 
-SAIFEGuard is a GenAI-powered, multi-agent system built to provide 24/7 proactive care for elderly individuals living independently. Developed during the **"Hack the Future: A Gen AI Sprint Powered by Data"** hackathon, this project combines the power of generative AI, wearable tech, and autonomous agents to reimagine elder care with empathy and innovation.
+**SAIFEGuard** is a GenAI-powered, multi-agent system built to provide 24/7 proactive care for elderly individuals living independently. Developed during the **"Hack the Future: A Gen AI Sprint Powered by Data"** hackathon, this project combines the power of generative AI, wearable tech, and autonomous agents to reimagine elder care with empathy and innovation.
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 
 In a rapidly aging world, millions of seniors live alone, facing health risks, social isolation, and gaps in care. With healthcare systems stretched thin, how can we ensure they live longer, healthier, and more connected lives—without full dependence on human caregivers?
 
-💡 Our Solution
+## 💡 Our Solution
 
-SAIFEGuard is a multi-agent GenAI ecosystem that acts as:
+**SAIFEGuard** is a multi-agent GenAI ecosystem that acts as:
 - 👩‍⚕️ **Health Agent** – Continuously monitors vitals, flags anomalies.
 - ⏰ **Routine Agent** – Sends smart reminders (medications, hydration, appointments).
 - 🧠 **Behavioral Agent** – Detects unusual inactivity or movement and triggers alerts.
@@ -39,26 +39,26 @@ These agents work collaboratively and autonomously using **agentic AI**, creatin
 - Scalable across mobile and smart home devices
 - Enhances—not replaces—human caregiving
 
-#💖 Impact
+## 💖 Impact
 
 - ⏱ Reduced emergency response time  
 - 💊 Better medication adherence  
 - 🧘 Lower caregiver stress  
 - 🧓 Increased dignity, safety, and independence for the elderly
 
-🧑‍💻 Team QuantumCrew
+## 🧑‍💻 Team QuantumCrew
 
 - **Aravindh M** (Team Lead)  
 - **Lalith Kishore V P**
 
-📚 References
+## 📚 References
 
 - [Ollama Model Library](https://ollama.com/library)  
 - Ethical Web Scraping Guidelines (Hackathon Provided)  
 - Wearable APIs: [Apple HealthKit], [Fitbit SDK], [Xiaomi Mi Band API]  
 - Alert Services: [MediSafe API], [WHO Health Updates]
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
