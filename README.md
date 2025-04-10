@@ -28,7 +28,7 @@ These agents work collaboratively and autonomously using **agentic AI**, creatin
 
 ## 🖼️ Project Preview
 
-![SAIFEGuard Screenshot](https://drive.google.com/file/d/1DTIzW_pN5t1sD-QROIvdZpCkf8ik4k8A/view?usp=sharing)
+![SAIFEGuard Screenshot](https://github.com/ARAVINDH22001/SAIFEGuard-Empowering-Independent-Aging-with-Agentic-AI/blob/main/Screenshot%201.png)
 
 
 ## 🎥 Demo Video
