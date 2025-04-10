@@ -26,6 +26,11 @@ These agents work collaboratively and autonomously using **agentic AI**, creatin
 | ⌚ **Wearable Sensor APIs** | Integration with Apple HealthKit, Fitbit, Mi Band for real-time vitals |
 | 🤖 **Multi-Agent Architecture** | Distributed decision-making across agents |
 
+## 🖼️ Project Preview
+
+![SAIFEGuard Screenshot](https://drive.google.com/file/d/1SqYPEKGWGnewoh2P5zEnEgu7U3OHnHK6/view?usp=sharing)
+
+
 ## 🎥 Demo Video
 
 📽️ **Watch our project demo on YouTube:**  
